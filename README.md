@@ -1,14 +1,15 @@
 # Hi, I'm M.Hassaan Khan
 
-**Agentic AI Engineer | I build AI agents for clinics, schools and businesses**
+**Agentic AI Engineer | I build custom AI agents for businesses**
 
 Founder of AIHUB Agent Factory · Faculty Head & Mentor at AI HUB · Gujranwala, Pakistan
 
-I design and ship AI agents that take over repetitive front-desk and back-office work: answering enquiries, booking appointments, following up leads, and handing real cases to a person. I have trained 100+ developers in AI engineering and agentic systems.
+I design and build custom AI agents that take over repetitive work in a business: answering customer enquiries, booking appointments, following up leads, handling routine tasks, and handing real cases to a person. Every agent is built around the way that business actually works. I have trained 100+ developers in AI engineering and agentic systems.
 
 ## What I'm building
 
-- **AI clinic front-desk agent**: a multi-tenant platform that books appointments, answers patients and hands emergencies to a human, with a short summary
+- **Custom AI agents**: tool-calling agents built for a specific business workflow and connected to its own tools and data
+- **AI front-desk agent**: a multi-tenant platform that books appointments, answers customers and hands urgent cases to a human, with a short summary
 - **AI tutor for students**: an AI tutoring platform with a retrieval-based knowledge base
 - **Sage AI**: a grading and paper-generation assistant for teachers
 - **AI School System**: a multi-tenant school management platform (students, fees, exams) with an AI layer
