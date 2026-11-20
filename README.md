@@ -11,8 +11,9 @@ Most businesses lose customers to slow replies and missed follow-ups. I build th
 Founder of AIHUB Agent Factory · Faculty Head & Mentor at AI HUB · Gujranwala, Pakistan
 
 [![Website](https://img.shields.io/badge/Website-aihub--agentfactory.com-2C3480?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aihub-agentfactory.com)
+[![YouTube](https://img.shields.io/badge/YouTube-AIHUB%20AGENT%20FACTORY-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzDoUgdQclecjGCYXaNprnQ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-M.Hassaan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhassaankhan-ai)
-[![Instagram](https://img.shields.io/badge/Instagram-aihub.agentfactory.official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aihub.agentfactory.official/)
+[![Instagram](https://img.shields.io/badge/Instagram-mr.khan._official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.khan._official)
 [![Fiverr](https://img.shields.io/badge/Fiverr-hassaankhan306-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hassaankhan306)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b094ff8b2327e7c9)
 
@@ -20,7 +21,7 @@ I design and build custom AI agents that take over repetitive work in a business
 
 ## What I'm building
 
-![8 AI agents built around your business](projects-v2.png)
+![8 AI agents built around your business](projects-v3.png)
 
 - **Front Desk Officer**: answers customers at any hour, checks real availability, books the appointment, reminds and reschedules; an upset customer is handed to a manager with a summary
 - **Restaurant Management**: conversational ordering, kitchen operations and the restaurant team in one place
@@ -45,7 +46,8 @@ See them all at https://aihub-agentfactory.com
 ## Let's talk
 
 - Website: https://aihub-agentfactory.com
+- YouTube: https://www.youtube.com/channel/UCzDoUgdQclecjGCYXaNprnQ
 - LinkedIn: https://www.linkedin.com/in/mhassaankhan-ai
-- Instagram: https://www.instagram.com/aihub.agentfactory.official/
+- Instagram: https://www.instagram.com/mr.khan._official
 - Fiverr: @hassaankhan306
 - Upwork: https://www.upwork.com/freelancers/~01b094ff8b2327e7c9
