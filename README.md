@@ -4,6 +4,10 @@
 
 **Agentic AI Engineer | I build custom AI agents for businesses**
 
+### 100+ developers trained · 100+ happy clients
+
+Most businesses lose customers to slow replies and missed follow-ups. I build the AI agent that takes that work over.
+
 Founder of AIHUB Agent Factory · Faculty Head & Mentor at AI HUB · Gujranwala, Pakistan
 
 I design and build custom AI agents that take over repetitive work in a business: answering customer enquiries, booking appointments, following up leads, handling routine tasks, and handing real cases to a person. Every agent is built around the way that business actually works. I have trained 100+ developers in AI engineering and agentic systems.
