@@ -14,13 +14,18 @@ I design and build custom AI agents that take over repetitive work in a business
 
 ## What I'm building
 
-![What I build at AIHUB Agent Factory](github-projects.png)
+![What I build at AIHUB Agent Factory](projects-all.png)
 
-- **Custom AI agents**: tool-calling agents built for a specific business workflow and connected to its own tools and data
-- **AI front-desk agent**: a multi-tenant platform that books appointments, answers customers and hands urgent cases to a human, with a short summary
-- **AI tutor for students**: an AI tutoring platform with a retrieval-based knowledge base
-- **Sage AI**: a grading and paper-generation assistant for teachers
-- **AI School System**: a multi-tenant school management platform (students, fees, exams) with an AI layer
+- **Front Desk Officer**: answers customers at any hour, checks real availability, books the appointment, reminds and reschedules; an upset customer is handed to a manager with a summary
+- **Restaurant Management**: conversational ordering, kitchen operations and the restaurant team in one place
+- **Healthcare Management**: a connected workflow for appointments, patient administration and the clinic team
+- **SocialPilot AI**: plans, drafts and schedules content around a brand voice and publishing workflow
+- **Sage AI**: creates papers and supports marking with your syllabus and assessment criteria
+- **AI Tutor**: personal learning support that adapts to the student's pace and course material
+- **AI School System**: admissions, attendance, exams and parent communication in one connected system
+- **AgentSite**: websites built with AI agents from the start, answering visitors, capturing enquiries and booking meetings on the page
+
+See them all at https://aihub-agentfactory.com
 
 ## Tech stack
 
