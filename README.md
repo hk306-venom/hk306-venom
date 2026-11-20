@@ -1,3 +1,5 @@
+![AIHUB Agent Factory - Agentic AI Engineer](github-banner.png)
+
 # Hi, I'm M.Hassaan Khan
 
 **Agentic AI Engineer | I build custom AI agents for businesses**
@@ -8,6 +10,8 @@ I design and build custom AI agents that take over repetitive work in a business
 
 ## What I'm building
 
+![What I build at AIHUB Agent Factory](github-projects.png)
+
 - **Custom AI agents**: tool-calling agents built for a specific business workflow and connected to its own tools and data
 - **AI front-desk agent**: a multi-tenant platform that books appointments, answers customers and hands urgent cases to a human, with a short summary
 - **AI tutor for students**: an AI tutoring platform with a retrieval-based knowledge base
@@ -16,15 +20,16 @@ I design and build custom AI agents that take over repetitive work in a business
 
 ## Tech stack
 
-- **Frontend:** Next.js, React
-- **Backend:** Node.js / Express, Python (FastAPI)
-- **Data:** Supabase (PostgreSQL)
-- **AI:** agentic workflows, tool-calling agents, retrieval (RAG), multiple LLMs
-- **Automation:** n8n, API integrations
-- **Deploy:** Vercel, Render
+**Frontend:** Next.js, React
+**Backend:** Node.js / Express, Python (FastAPI)
+**Data:** Supabase (PostgreSQL)
+**AI:** agentic workflows, tool-calling agents, retrieval (RAG), multiple LLMs
+**Automation:** n8n, API integrations
+**Deploy:** Vercel, Render
 
 ## Let's talk
 
 - Website: https://aihub-agentfactory.com
 - LinkedIn: https://www.linkedin.com/in/mhassaankhan-ai
 - Fiverr: @hassaankhan306
+- Upwork: https://www.upwork.com/freelancers/~01b094ff8b2327e7c9
